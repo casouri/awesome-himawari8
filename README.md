@@ -6,47 +6,70 @@ Also by comparing these scripts, similarities and differences between language c
 
 Among the list not only are there languages normally used for such task like Python and Ruby, but also Java, Haskel, Go, C#, Javascript(CoffesSript) and even Matlab.
 
-[boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background http://labs.boramalper.org/himawaripy - [Python]()
+## Python
 
-[jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite http://jakiestfu.github.io/himawari.j… - [JavaScript]()
+[boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background http://labs.boramalper.org/himawaripy
 
-[MathiasStokholm/Himawari](https://github.com/MathiasStokholm/Himawari) - Live Wallpaper for Android showcasing live images of the Earth captured by the Himawari Satellite - [Kotlin]()
+[liuwons/Himawari8 Image Downloader](https://github.com/liuwons/himawari8downloader) - Himawari8 Image Downloader
 
-[domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - Experience the latest image from the Himawari 8 satellite https://goo.gl/QQf24S - [TypeSctipt]()
+[peterldowns/himawari8](https://github.com/peterldowns/himawari8) - 
 
-[liuwons/Himawari8 Image Downloader](https://github.com/liuwons/himawari8downloader) - Himawari8 Image Downloader - [Python]()
+[goldbattle/himawari8-compiler](https://github.com/goldbattle/himawari8-compiler) - Compiles images from the Himawari 8 japanese weather satellite
 
-[peterldowns/himawari8](https://github.com/peterldowns/himawari8) -  - [Python]()
+[fatdeer/himawari8-downloader](https://github.com/fatdeer/himawari8-downloader) - Download All Himawari8 EARTH RGB Color Image
 
-[goldbattle/himawari8-compiler](https://github.com/goldbattle/himawari8-compiler) - Compiles images from the Himawari 8 japanese weather satellite - [Python]()
+[littleningmeng/blueearth](https://github.com/littleningmeng/blueearth) - get recently photo of earth from himawari8 and set it as your wallpaper
 
-[fatdeer/himawari8-downloader](https://github.com/fatdeer/himawari8-downloader) - Download All Himawari8 EARTH RGB Color Image - [Python]()
+[goldbattle/himawari8-compiler](https://github.com/search?utf8=✓&q=himawari&type=Repositories) - Compiles images from the Himawari 8 japanese weather satellite
 
-[littleningmeng/blueearth](https://github.com/littleningmeng/blueearth) - get recently photo of earth from himawari8 and set it as your wallpaper - [Python]()
+## JavaScript
 
-[goldbattle/himawari8-compiler](https://github.com/search?utf8=✓&q=himawari&type=Repositories) - Compiles images from the Himawari 8 japanese weather satellite - [Python]()
+[jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite http://jakiestfu.github.io/himawari.j…
+
+[FrancoisMentec/himawari-8-wallpaper](https://github.com/FrancoisMentec/himawari-8-wallpaper) - A beautiful earth view as wallpaper from Himawari 8: https://himawari8.nict.go.jp/
+
+## CoffeeScript
+
+[jnst/hubot-himawari8](https://github.com/jnst/hubot-himawari8) - A Hubot script for getting Himawari 8 satellite image via Japan Meteorological Agency
+
+## TypeScript
+[domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - Experience the latest image from the Himawari 8 satellite https://goo.gl/QQf24S
+
+## Ruby
 
 [pihao/Himawari8 Desktop for Mac](https://github.com/pihao/himawari8-desktop) - http://himawari8.nict.go.jp/ - [Ruby]()
 
+## C-sharp
+[patrickds/himawari8](https://github.com/patrickds/himawari8) - A little c# application to change your wallpaper every 10 minutes with real time images from Himawari 8 Japan Satellite.
+
+[NoStudioDude/himawari8.WPF](https://github.com/NoStudioDude/himawari8.WPF) - Get a wallpaper from himawari satellite onto your desktop
+
+[infinity8/Himawari8WallpaperDownloader](https://github.com/infinity8/Himawari8WallpaperDownloader) - An application for downloading the latest Himawari 8 satelite imagery and setting it as your wallpaper
+
+## Java
+
+[sunzcdev/himawari8-Android](https://github.com/sunzcdev/himawari8-Android) - 向日葵8卫星Android版本的桌面壁纸
+
+## Go
+
+[tonyluj/himawari8](https://github.com/tonyluj/himawari8) - collect image from himawari8
+
+## Haskell
+
 [spicker/himawari8](https://github.com/spicker/himawari8) - A small program to download images taken by the Himawari-8 satellite - [Haskell]()
 
-[patrickds/himawari8](https://github.com/patrickds/himawari8) - A little c# application to change your wallpaper every 10 minutes with real time images from Himawari 8 Japan Satellite. - [C#]()
+## Shell
 
-[NoStudioDude/himawari8.WPF](https://github.com/NoStudioDude/himawari8.WPF) - Get a wallpaper from himawari satellite onto your desktop - [C#]()
+[yatsenko-ihor/himawari8-wallaper](https://github.com/yatsenko-ihor/himawari8-wallaper) - Script which download last photo from Himawari8 and set image as desktop wallaper. Read more https://en.wikipedia.org/wiki/Himawari_8
 
-[infinity8/Himawari8WallpaperDownloader](https://github.com/infinity8/Himawari8WallpaperDownloader) - An application for downloading the latest Himawari 8 satelite imagery and setting it as your wallpaper - [C#]()
+## Kotlin
 
-[tonyluj/himawari8](https://github.com/tonyluj/himawari8) - collect image from himawari8 - [Go]()
+[MathiasStokholm/Himawari](https://github.com/MathiasStokholm/Himawari) - Live Wallpaper for Android showcasing live images of the Earth captured by the Himawari Satellite
 
-[sunzcdev/himawari8-Android](https://github.com/sunzcdev/himawari8-Android) - 向日葵8卫星Android版本的桌面壁纸 - [Java]()
+## Matlab
 
-[FrancoisMentec/himawari-8-wallpaper](https://github.com/FrancoisMentec/himawari-8-wallpaper) - A beautiful earth view as wallpaper from Himawari 8: https://himawari8.nict.go.jp/ - [JavaScript]()
+[bitpeach/EarthLiveForMatlab](https://github.com/bitpeach/EarthLiveForMatlab) - EarthLive is a program of displaying live pictures of earth on our PC desktop in every 10 minutes. The live earth photos are pictured by the satellite named ’Himawari8’. The Python version of EarthLive for Macbooks has been finished by me, which adopts 4 parts of sub-pictures. Now, Matlab version has been complemented here.
 
-[jnst/hubot-himawari8](https://github.com/jnst/hubot-himawari8) - A Hubot script for getting Himawari 8 satellite image via Japan Meteorological Agency - [CoffeeScript]()
+## Crystal
 
-[yatsenko-ihor/himawari8-wallaper](https://github.com/yatsenko-ihor/himawari8-wallaper) - Script which download last photo from Himawari8 and set image as desktop wallaper. Read more https://en.wikipedia.org/wiki/Himawari_8 - [Shell]()
-
-[tzekid/star-gazelle](https://github.com/tzekid/star-gazelle) - Have the latest himawari8 shots as your wallpaper! (Wallpapers update every 10 min) - [Crystal]()
-
-[bitpeach/EarthLiveForMatlab](https://github.com/bitpeach/EarthLiveForMatlab) - EarthLive is a program of displaying live pictures of earth on our PC desktop in every 10 minutes. The live earth photos are pictured by the satellite named ’Himawari8’. The Python version of EarthLive for Macbooks has been finished by me, which adopts 4 parts of sub-pictures. Now, Matlab version has been complemented here. - [Matlab]()
-
+[tzekid/star-gazelle](https://github.com/tzekid/star-gazelle) - Have the latest himawari8 shots as your wallpaper! (Wallpapers update every 10 min)
