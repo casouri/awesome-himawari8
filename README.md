@@ -37,7 +37,7 @@ Among the list not only are there languages normally used for such task like Pyt
 
 ## Ruby
 
-[pihao/Himawari8 Desktop for Mac](https://github.com/pihao/himawari8-desktop) - http://himawari8.nict.go.jp/ - [Ruby]()
+[pihao/Himawari8 Desktop for Mac](https://github.com/pihao/himawari8-desktop) - http://himawari8.nict.go.jp/
 
 ## C-sharp
 [patrickds/himawari8](https://github.com/patrickds/himawari8) - A little c# application to change your wallpaper every 10 minutes with real time images from Himawari 8 Japan Satellite.
@@ -56,7 +56,7 @@ Among the list not only are there languages normally used for such task like Pyt
 
 ## Haskell
 
-[spicker/himawari8](https://github.com/spicker/himawari8) - A small program to download images taken by the Himawari-8 satellite - [Haskell]()
+[spicker/himawari8](https://github.com/spicker/himawari8) - A small program to download images taken by the Himawari-8 satellite
 
 ## Shell
 
