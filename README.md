@@ -49,6 +49,7 @@ Among the list not only are there languages normally used for such task like Pyt
 ## Java
 
 [sunzcdev/himawari8-Android](https://github.com/sunzcdev/himawari8-Android) - 向日葵8卫星Android版本的桌面壁纸
+[LsHallo/HimawariDownloader](https://github.com/LsHallo/HimawariDownloader) - Java Desktop Downloader with PNG compression
 
 ## Go
 
